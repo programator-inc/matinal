@@ -165,7 +165,10 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   font-weight: bold; }
   .logo a {
     color: #000; }
-
+  .logo svg{
+    height: 64px !important;
+    width : 64px !important;
+  }
 .menu-absolute {
   position: absolute;
   right: 15px; }
@@ -504,7 +507,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   width: 100%;
   height: 2px;
   display: block;
-  background: #000;
+  background: var(--white);
   border-radius: 2px;
   position: absolute;
   opacity: 1; }
