@@ -1,0 +1,59 @@
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('ParalucentTextW00-Book.woff2') format('woff2'),
+        url('ParalucentTextW00-Book.woff') format('woff'),
+        url('ParalucentTextW00-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('ParalucentW00-Medium.woff2') format('woff2'),
+        url('ParalucentW00-Medium.woff') format('woff'),
+        url('ParalucentW00-Medium.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ParalucentW00';
+    src: url('ParalucentW00-Bold.woff2') format('woff2'),
+        url('ParalucentW00-Bold.woff') format('woff'),
+        url('ParalucentW00-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('ParalucentW00-DemiBold.woff2') format('woff2'),
+        url('ParalucentW00-DemiBold.woff') format('woff'),
+        url('ParalucentW00-DemiBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('ParalucentW00-Heavy.woff2') format('woff2'),
+        url('ParalucentW00-Heavy.woff') format('woff'),
+        url('ParalucentW00-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('ParalucentW00-Thin.woff2') format('woff2'),
+        url('ParalucentW00-Thin.woff') format('woff'),
+        url('ParalucentW00-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+
+
+
