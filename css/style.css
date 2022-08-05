@@ -13,7 +13,7 @@ body {
   line-height: 1.5;
   font-size: 15px;
   color: #000000;
-  background: #E8E5DE; }
+  background: #F8FBFF; }
   body:before {
     content: "";
     position: fixed;
@@ -64,7 +64,7 @@ a.text-primary {
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   color: #000;
     font-family: "Paralucent", serif;
-    font-style: bold;
+    font-weight: bold;
   }
 
 .btn {
